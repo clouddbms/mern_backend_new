@@ -82,7 +82,7 @@ function getLogFileName() {
 }
 app.use(
   cors({
-    origin: ["http://localhost:3000","http://3.108.54.68:3000","https://mind-meld-react.vercel.app"],
+    origin: ["http://localhost:3000","https://mern-frontend-new-iota.vercel.app/","https://mind-meld-react.vercel.app"],
     methods: ["POST", "GET", "HEAD", "PUT", "DELETE"],
     credentials: true,
   })
