@@ -44,7 +44,7 @@ const options={
   },
   servers: [
     {
-      url: "http://3.108.54.68:8000",
+      url: "https://mern-backend-new-i3ta.onrender.com",
     },
   ],
   components:{
